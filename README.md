@@ -2,6 +2,10 @@
 
 A simple and interactive Q&A chatbot built using Streamlit, LangChain, and Google Gemini API.
 
+# Deployed On
+
+[Q&A Chatbot Demo](https://q-a-chatbot-nishant.streamlit.app/)
+
 ## Features
 
 - Multiple Gemini model support
