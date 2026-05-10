@@ -40,8 +40,7 @@ A simple and interactive Q&A chatbot built using Streamlit, LangChain, and Googl
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repository-url>
-cd <project-folder>
+git clone https://github.com/nishantkhandelwal26/Q-A-Chatbot.git
 ```
 
 ### 2. Create Virtual Environment
@@ -113,17 +112,6 @@ streamlit run app.py
 5. LangChain creates a prompt chain
 6. Gemini generates the response
 7. Output is displayed in the Streamlit app
-
----
-
-## Future Improvements
-
-- Chat history support
-- Conversation memory
-- File upload and document Q&A
-- Streaming responses
-- Voice input support
-- Deployment on Streamlit Cloud
 
 ---
 
